@@ -9,7 +9,7 @@ plate_download.py - reads in code output files found in output files folder to d
 
 plots.py - reads in code output files to produce histograms and scatter plots of the results
 
-sentry.txt, ESA.txt, MPC emoid sorted.txt - lists of potentially hazardous asteroids that are read in the main codes
+sentry 2.txt, ESA.txt, MPC emoid sorted.txt - lists of potentially hazardous asteroids that are read in the main codes
 
 output files - named by plate catalogue and asteroid list, '<20' references magnitudes below 20, 'low del' contain only positional uncertainties within the plate boundaries, deltas contain the uncertainties in degrees, needed to plot the scatter plot in plots.py
 
