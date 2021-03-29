@@ -1,4 +1,4 @@
-# SHPasteroids
+# SHP Asteroids
 Code, input and output files developed for the Senior Honours Project: Save the Earth from the Killer Asteroids!
 
 UKST_all.py - Reads in entire UKST catalog.txt and puts out precovery plates for stated asteroids 
@@ -12,3 +12,9 @@ plots.py - reads in code output files to produce histograms and scatter plots of
 sentry.txt, ESA.txt, MPC emoid sorted.txt - lists of potentially hazardous asteroids that are read in the main codes
 
 output files - named by plate catalogue and asteroid list, '<20' references magnitudes below 20, 'low del' contain only positional uncertainties within the plate boundaries, deltas contain the uncertainties in degrees, needed to plot the scatter plot in plots.py
+
+Sentry images - original images from the Sentry list used in the report
+
+MPC image < 0.0005 -  original images from the MPC list used in the report
+
+Additional MPC images -  images from the 19 MPC hits not shown in the report 
