@@ -2,10 +2,12 @@
 Code, input and output files developed for the Senior Honours Project: Save the Earth from the Killer Asteroids!
 
 UKST_all.py  
+
 Reads in entire UKST catalog.txt and puts out precovery plates for stated asteroids 
 
 
 UKST_SC.py, POSS_II_SC.py, ESO_SC.py
+
 Reads in SuperCOSMOS survey plates of UKST catalog.txt, POSS-II catalog.txt and ESO catalog.txt and puts out precovery plates for stated asteroids. ESO_SC.py also needs plate numbers listed in ESO survey numbers.txt
 
 
